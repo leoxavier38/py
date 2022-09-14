@@ -1,5 +1,5 @@
 # create a list of prime numbers
-prime_numbers = [2, 3, 5, 7]
+prime_numbers = [2, 3,8, 7]
 
 # reverse the order of list elements
 prime_numbers.reverse()
